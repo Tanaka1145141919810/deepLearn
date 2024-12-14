@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "大作业"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = ["numpy","jax"]
